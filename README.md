@@ -135,7 +135,7 @@ On completion of a transaction you can get a payment notification ([IPN](https:/
 
 
 ### JavaScript API
-There's even a fancy JavaScript API if you'd like to pragmatically create your buttons.
+There's even a fancy JavaScript API if you'd like to programmatically create your buttons.
 
 **paypal.button.create(business, data, config, parentNode)**  
 Creates and returns an HTML element that contains the button code. 
